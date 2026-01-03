@@ -7,6 +7,11 @@
 * [Getting Started](fundamentals/getting-started.md)
 * [Support](fundamentals/support.md)
 
+## Guides
+
+* [How to activate the PRO version](guides/how-to-activate-the-pro-version.md)
+* [How to use TablePop](guides/how-to-use-tablepop.md)
+
 ## FAQ
 
 * [Does it work on Mac?](faq/does-it-work-on-mac.md)
