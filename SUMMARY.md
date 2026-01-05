@@ -21,4 +21,5 @@
 * [Can I use it for commercial projects?](faq/can-i-use-it-for-commercial-projects.md)
 * [Are there any limitations when exporting large tables?](faq/are-there-any-limitations-when-exporting-large-tables.md)
 * [What's the difference between Free and Pro?](faq/whats-the-difference-between-free-and-pro.md)
+* [How many devices can I use the Pro version on?](faq/how-many-devices-can-i-use-the-pro-version-on.md)
 * [Can I get a refund?](faq/can-i-get-a-refund.md)
